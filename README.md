@@ -17,7 +17,9 @@ El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de
 The key to well-documented, well-tested and easily-distributed R code is the package. This half day class will teach you how to make package development as easy as possible with devtools and usethis. You’ll also learn roxygen2 to document your code so others (including future you!) can understand what’s going on, and testthat to avoid future breakages. The class will consist of a series of demonstrations and hands on exercises. Participants should bring a laptop setup to build R packages. Detailed instructions are available [here](https://r-pkgs.org/intro.html#intro-prep).
 
 [“Visualización de datos con Highcharter”](https://github.com/jbkunst/LatinR-2019-Highcharter-taller) by [Joshua Kunst](https://twitter.com/jbkunst)
+
 [Slides](http://jkunst.com/LatinR-2019-Highcharter-taller/slides)
+
 En este taller revisaremos la importancia de la visualización, aprenderemos de elementos técnicos como tipos de gráficos, correcto uso de colores, etiquetas y otros elementos; además de revisar buenas prácticas a considerar al momento de realizar una visualización. Luego, con R aprenderemos a realizar simples, interactivos y efectivos gráficos usando solo la función hchart, para después estudiar las funciones para configurar cada elemento del gráfico tales como los ejes, títulos, tooltips. Aprenderemos a graficar datos provenientes data.frames y otras fuentes de información, como datos espaciales. Finalizaremos aprendiendo cómo es como es la integración de highcharter con los paquetes Shiny y RMarkdown.
 
 ## Presentaciones orales
