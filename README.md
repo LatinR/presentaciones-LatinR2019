@@ -1,4 +1,4 @@
-# Presentaciones y pósters LatinR 2018
+# Presentaciones y pósters LatinR 2019
 
 ## Presentaciones plenarias
 
@@ -11,6 +11,12 @@ Mine Çetinkaya-Rundel is the Director of Undergraduate Studies and an Associate
 #### [Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_09_27_LatinR_H2OAutoML/h2o_automl_latinr_sept2019.pdf) by [Erin LeDell](https://twitter.com/ledell)
 
 Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She is de founder of Women+ in Machine Learning & Data Science, and one of the co-founders of RLadies Global
+
+#### The many backends of dplyr by [Hadley Wickham](https://twitter.com/hadleywickham)
+
+[Video](https://www.youtube.com/watch?v=gKYXnkRrr54&feature=youtu.be)
+
+Hadley Wickham is a Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He build tools (computational and cognitive) that make data science easier, faster, and more fun.
 
 
 ## Tutoriales
