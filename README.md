@@ -2,6 +2,12 @@
 
 ## Presentaciones plenarias
 
+#### [R 4 All: Welcoming and inclusive practices for teaching R](https://speakerdeck.com/minecr/r4all-welcoming-plus-inclusive-practices-for-teaching-r) by [Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
+
+[Video](https://t.co/cU7j9il4pY)
+
+Mine Çetinkaya-Rundel is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education. She is also a Professional Educator at RStudio.
+
 #### [Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_09_27_LatinR_H2OAutoML/h2o_automl_latinr_sept2019.pdf) by [Erin LeDell](https://twitter.com/ledell)
 
 Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She is de founder of Women+ in Machine Learning & Data Science, and one of the co-founders of RLadies Global
