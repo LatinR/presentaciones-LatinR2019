@@ -2,6 +2,11 @@
 
 ## Presentaciones plenarias
 
+#### [Automatic Machine Learning with H2O](https://github.com/h2oai/h2o-meetups/blob/master/2019_09_27_LatinR_H2OAutoML/h2o_automl_latinr_sept2019.pdf) by [Erin LeDell](https://twitter.com/ledell)
+
+Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She is de founder of Women+ in Machine Learning & Data Science, and one of the co-founders of RLadies Global
+
+
 ## Tutoriales
 
 #### [“Teaching Data Science”](https://rstudio-education.github.io/teach-ds-latinR/) by [Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
