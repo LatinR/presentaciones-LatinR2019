@@ -55,8 +55,8 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Mesa temática: Comunidades - Presentación: [Laura Acion](https://twitter.com/_lacion_)
 
-* #### ROpenSci. Maëlle Salmon(https://twitter.com/ma_salmon)
-* #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	Elio Campitelli(https://twitter.com/d_olivaw), Gabriela Mathieu, [Marcos Prunello](https://twitter.com/mrqtsp)
+* #### [ROpenSci.](tiny.cc/latinr19) [Maëlle Salmon](https://twitter.com/ma_salmon)
+* #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	[Elio Campitelli](https://twitter.com/d_olivaw), Gabriela Mathieu, [Marcos Prunello](https://twitter.com/mrqtsp)
 * #### [R-Ladies.](https://docs.google.com/presentation/d/1ofKcww5FnVEFb-IfFFDqHY8wxY7xdmqQsXPbgpzZeqQ/edit?usp=drivesdk) 	[Yanina Bellini Saibene](https://twitter.com/yabellini), [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 * #### The Carpentries. [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 * #### SatRDay. [Riva Quiroga](https://twitter.com/rivaquiroga).
