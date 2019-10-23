@@ -1,4 +1,4 @@
-# Presentaciones y pósters LatinR 2019
+# Tutoriales, Charlas Plenarias, Presentaciones y pósters LatinR 2019
 
 ## Presentaciones plenarias
 
