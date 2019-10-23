@@ -67,7 +67,7 @@ Sury Chavarria Gutierrez, Lindey Carvajal Acuña y Josue Pablo Baltodano Leiva
 * #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	
 Ana Laura Diedrichs, Facundo Bromberg y Diego Dujovne	
 
-* #### [Herramientas de Análisis en Educación Superior](hhttps://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
+* #### [Herramientas de Análisis en Educación Superior](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
 Claudia Cifuentes Donald	
 
 * #### [Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina	information on submission](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_55.pdf)
