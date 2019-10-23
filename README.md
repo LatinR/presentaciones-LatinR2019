@@ -40,23 +40,26 @@ The key to well-documented, well-tested and easily-distributed R code is the pac
 En este taller revisaremos la importancia de la visualización, aprenderemos de elementos técnicos como tipos de gráficos, correcto uso de colores, etiquetas y otros elementos; además de revisar buenas prácticas a considerar al momento de realizar una visualización. Luego, con R aprenderemos a realizar simples, interactivos y efectivos gráficos usando solo la función hchart, para después estudiar las funciones para configurar cada elemento del gráfico tales como los ejes, títulos, tooltips. Aprenderemos a graficar datos provenientes data.frames y otras fuentes de información, como datos espaciales. Finalizaremos aprendiendo cómo es como es la integración de highcharter con los paquetes Shiny y RMarkdown.
 
 ## Presentaciones orales
+
+_El link en el nombre del trabajo te dará acceso al resumen del trabajo. El link en la palabra Presentación te dara acceso a las slides de la exposición oral.  El link en el nombre de los autores y moderadores te dará acceso a su cuenta de twitter._
+
 ### Jueves 25
 
 ### Mesa temática: Ciencia de Datos para las políticas públicas - Presentación: [Verónica Canales](https://twitter.com/veritoctoc)
 
 * #### Marco general de la situación de la ciencia de datos en relación al desarrollo de políticas públicas.	Germán Mondragón
 * #### Uso de APIs y modelos de series de tiempo para estimar dotación de personal. [Presentación.](http://pacha.hk/latinr/apis/index.html#1)	[Mauricio Vargas](https://twitter.com/pachamaltese)
-* #### Experiencias de trabajo con grandes volúmenes de datos en el procesamiento de Censo 2017.	[Pablo León]
-* #### Tres experiencias de éxito en el uso de la ciencia de datos para el sector público.[Presentación](https://docs.google.com/presentation/d/1kopfNxwqtsHTrb2BfuTo-iLChBMB_Jq7qKTBxHCy5vA/edit?usp=sharing)	[Patricio Cofré](https://twitter.com/pcofre)
+* #### Experiencias de trabajo con grandes volúmenes de datos en el procesamiento de Censo 2017.	Pablo León
+* #### Tres experiencias de éxito en el uso de la ciencia de datos para el sector público.[Presentación.](https://docs.google.com/presentation/d/1kopfNxwqtsHTrb2BfuTo-iLChBMB_Jq7qKTBxHCy5vA/edit?usp=sharing)	[Patricio Cofré](https://twitter.com/pcofre)
 
 
-### Mesa temática: Comunidades - Presentación: Laura Acion
+### Mesa temática: Comunidades - Presentación: [Laura Acion](https://twitter.com/_lacion_)
 
-* #### ROpenSci. Maëlle Salmon
-* #### RUGs.	Elio Campitelli, Gabriela Mathieu, Marcos Prunello
-* #### R-Ladies.	Yanina Bellini Saibene, Laura Acion, Florencia D'Andrea
-* #### The Carpentries. Laura Acion, Florencia D'Andrea
-* #### SatRDay. Riva Quiroga.
+* #### ROpenSci. Maëlle Salmon(https://twitter.com/ma_salmon)
+* #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	Elio Campitelli(https://twitter.com/d_olivaw), Gabriela Mathieu, [Marcos Prunello](https://twitter.com/mrqtsp)
+* #### [R-Ladies.](https://docs.google.com/presentation/d/1ofKcww5FnVEFb-IfFFDqHY8wxY7xdmqQsXPbgpzZeqQ/edit?usp=drivesdk) 	[Yanina Bellini Saibene](https://twitter.com/yabellini), [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
+* #### The Carpentries. [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
+* #### SatRDay. [Riva Quiroga](https://twitter.com/rivaquiroga).
 * #### LatinR. Ignacio
 
 ### Panel: Datos oficiales y encuestas
@@ -64,10 +67,10 @@ En este taller revisaremos la importancia de la visualización, aprenderemos de 
 * #### Ignacio Agloni, Klaus Lehmann and Verónica Canales
 * #### rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R	Gabriela Mathieu and Richard Detomasi
 
-### Panel: Género - moderadora: Florencia D'Andrea
+### Panel: Género - moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
-* #### Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina	Yanina Bellini Saibee and Marina Cock
-* #### ¿Quienes investigan sobre género?	Juan Pablo Sokil and Laura Osorio Gómez
+* #### Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina. [Presentación.](https://docs.google.com/presentation/d/1Brx-Gil1iZqu_vLSmBjJFxXwkZcwSEoZniW6SZBSP9I/edit?usp=sharing)	[Yanina Bellini Saibene](https://twitter.com/yabellini) and Marina Cock
+* #### ¿Quienes investigan sobre género?. [Presentación.](https://www.dropbox.com/s/peq9poppxdwpn53/Presentaci%C3%B3n%20LATINR.pptx?dl=0)	[Juan Pablo Sokil](https://twitter.com/juanpablosokil) and Laura Osorio Gómez
 
 ### Panel: Manejo de datos
 
