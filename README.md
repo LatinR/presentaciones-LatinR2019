@@ -40,6 +40,60 @@ The key to well-documented, well-tested and easily-distributed R code is the pac
 En este taller revisaremos la importancia de la visualización, aprenderemos de elementos técnicos como tipos de gráficos, correcto uso de colores, etiquetas y otros elementos; además de revisar buenas prácticas a considerar al momento de realizar una visualización. Luego, con R aprenderemos a realizar simples, interactivos y efectivos gráficos usando solo la función hchart, para después estudiar las funciones para configurar cada elemento del gráfico tales como los ejes, títulos, tooltips. Aprenderemos a graficar datos provenientes data.frames y otras fuentes de información, como datos espaciales. Finalizaremos aprendiendo cómo es como es la integración de highcharter con los paquetes Shiny y RMarkdown.
 
 ## Presentaciones orales
+### Jueves 25
+
+### Mesa temática: Ciencia de Datos para las políticas públicas - Presentación: [Verónica Canales](https://twitter.com/veritoctoc)
+
+* #### Marco general de la situación de la ciencia de datos en relación al desarrollo de políticas públicas.	Germán Mondragón
+* #### Uso de APIs y modelos de series de tiempo para estimar dotación de personal.[Presentación](http://pacha.hk/latinr/apis/index.html#1)	[Mauricio Vargas](https://twitter.com/pachamaltese)
+* #### Experiencias de trabajo con grandes volúmenes de datos en el procesamiento de Censo 2017.	[Pablo León](https://twitter.com/
+* #### Tres experiencias de éxito en el uso de la ciencia de datos para el sector público.[Presentación](https://docs.google.com/presentation/d/1kopfNxwqtsHTrb2BfuTo-iLChBMB_Jq7qKTBxHCy5vA/edit?usp=sharing)	[Patricio Cofré](https://twitter.com/pcofre)
+
+
+### Mesa temática: Comunidades - Presentación: Laura Acion
+
+* #### ROpenSci. Maëlle Salmon
+* #### RUGs.	Elio Campitelli, Gabriela Mathieu, Marcos Prunello
+* #### R-Ladies.	Yanina Bellini Saibene, Laura Acion, Florencia D'Andrea
+* #### The Carpentries. Laura Acion, Florencia D'Andrea
+* #### SatRDay. Riva Quiroga.
+* #### LatinR. Ignacio
+
+### Panel: Datos oficiales y encuestas
+
+* #### Ignacio Agloni, Klaus Lehmann and Verónica Canales
+* #### rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R	Gabriela Mathieu and Richard Detomasi
+
+### Panel: Género - moderadora: Florencia D'Andrea
+
+* #### Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina	Yanina Bellini Saibee and Marina Cock
+* #### ¿Quienes investigan sobre género?	Juan Pablo Sokil and Laura Osorio Gómez
+
+### Panel: Manejo de datos
+
+* #### Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay.	Santiago Melendi, Marilina Santero, Carolina Prado, Rosana Poggio, Natalia Elorriaga, Laura Gutierrez, Pablo Gulayin and Vilma Irazola
+* #### Fuzzy merging with company names	Richard Vogg
+* #### De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados	Luis D. Verde Arregoitia.
+* #### inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos	Andrés Cruz
+* #### AHP implementada em R	Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
+
+### Panel: Desarrollo de paquetes y R en producción	
+
+* #### Auto-Keras: An R easily accessible deep learning library	Juan Cruz Rodriguez and Javier Luraschi
+* #### alicer: Creando un paquete con soluciones analíticas para Walmart Chile	Francisco Yira Albornoz Cambiaso and Francisco Benavides Lorca
+* #### Si te gusta la estadística, bancate los metámeros	Elio Campitelli
+* #### Uso de R en ambiente productivos	Tomás León
+* #### GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos	Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
+
+### Panel: Datos abiertos, datos de gobierno, elecciones	
+* #### Reproducible Analysis in the UK Government	Matthew Upson, Matthew Gregory, Duncan Garmonsway and Matthew Dray
+* #### Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros.	Fernando Barbalho, Lucas Leite, Jordão Gonçalves and Tiago Pereira
+* #### Inteligencia Electoral: comportamiento y campañas	Juan Pablo Ruiz Nicolini and Juan Pablo Pilorget
+* #### Package "lobbyR"	Daniel Alcatruz and Sebastián Niklitschek
+* #### Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R	Daniela Vazquez
+
+
+
 
 ## Posters
 
