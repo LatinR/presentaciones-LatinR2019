@@ -43,47 +43,47 @@ En este taller revisaremos la importancia de la visualización, aprenderemos de 
 
 ## Posters
 
-* #### [Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados.](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_9.pdf)
+* #### [Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_9.pdf)
 Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira	
 
-* #### [Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_10.pdf)
+* #### [Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_10.pdf)
 Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira
 
-* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_24.pdf)
+* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf)
 Marcos Prunello	
 
-* #### [Visualizing Discriminative Power of Symbol-based Network Traffic Models](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_27.pdf)	
+* #### [Visualizing Discriminative Power of Symbol-based Network Traffic Models](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_27.pdf)	
 Carlos Catania y Jorge Guerra	
 
-* #### [Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_28.pdf)
+* #### [Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_28.pdf)
 Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud y Juan M. Juricich
 
-* #### [Log-linear models structure comparison](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_34.pdf)
+* #### [Log-linear models structure comparison](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_34.pdf)
 Jan Strappa Figueroa y Facundo Bromberg
 
-* #### [Juego Interactivo: Take Away](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_35.pdf)
+* #### [Juego Interactivo: Take Away](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_35.pdf)
 Sury Chavarria Gutierrez, Lindey Carvajal Acuña y Josue Pablo Baltodano Leiva	
 
-* #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_43.pdf)	
+* #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	
 Ana Laura Diedrichs, Facundo Bromberg y Diego Dujovne	
 
-* #### [Herramientas de Análisis en Educación Superior](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_44.pdf)
+* #### [Herramientas de Análisis en Educación Superior](hhttps://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
 Claudia Cifuentes Donald	
 
-* #### [Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina	information on submission](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_55.pdf)
+* #### [Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina	information on submission](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_55.pdf)
 Jesús Eduardo Gamboa Unsihuay	
 
-* #### [Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas?](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_56.pdf)
+* #### [Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas?](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_56.pdf)
 Patricia Caro, Teresa Braicovich y Casullo Fernando Miguel	
 
-* #### [Análisis de valores extremos: una aplicación a temperaturas mínimas en Uruguay](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_66.pdf)
+* #### [Análisis de valores extremos: una aplicación a temperaturas mínimas en Uruguay](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_66.pdf)
 Mathias Cardarello y Lorena Luraghi	
 
-* #### [La impulsividad cognitiva como modulador del castigo altruista](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_72.pdf)
+* #### [La impulsividad cognitiva como modulador del castigo altruista](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_72.pdf)
 Luis Domingo Martínez Vázquez, Driselda Patricia Sánchez Aguirre, Azalea Reyes Aguilar, Michael Demmler y Magdalena Giordano
 
-* #### [Construyendo el Sistema Regional de Input-Output para Chile](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_76.pdf)
+* #### [Construyendo el Sistema Regional de Input-Output para Chile](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_76.pdf)
 Patricio Aroca, Esteban López y Sebastián Briones
 
-* #### [Reglas de Asociación, una aplicación en retail del mercado outdoor](https://github.com/LatinR/presentaciones-LatinR2019.git/posters2019/LatinR2019_paper_84.pdf)
+* #### [Reglas de Asociación, una aplicación en retail del mercado outdoor](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_84.pdf)
 Gabriela Sandoval	
