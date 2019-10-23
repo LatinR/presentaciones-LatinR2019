@@ -41,3 +41,45 @@ En este taller revisaremos la importancia de la visualización, aprenderemos de 
 
 ## Presentaciones orales
 
+## Posters
+
+* #### Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados.
+Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira	
+
+* #### Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina.
+Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira
+
+* #### InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares
+Marcos Prunello	
+
+* #### Visualizing Discriminative Power of Symbol-based Network Traffic Models	
+Carlos Catania y Jorge Guerra	
+
+* #### Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R	Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud y Juan M. Juricich
+
+* #### Juego Interactivo: Take Away.
+Sury Chavarria Gutierrez, Lindey Carvajal Acuña y Josue Pablo Baltodano Leiva	
+
+* #### Predicción de heladas usando aprendizaje automático e internet de las cosas	
+Ana Laura Diedrichs, Facundo Bromberg y Diego Dujovne	
+
+* #### Herramientas de Análisis en Educación Superior
+Claudia Cifuentes Donald	
+
+* #### Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina	information on submission 
+Jesús Eduardo Gamboa Unsihuay	
+
+* #### Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas?
+Patricia Caro, Teresa Braicovich y Casullo Fernando Miguel	
+
+* #### Análisis de valores extremos: una aplicación a temperaturas mínimas en Uruguay
+Mathias Cardarello y Lorena Luraghi	
+
+* #### La impulsividad cognitiva como modulador del castigo altruista
+Luis Domingo Martínez Vázquez, Driselda Patricia Sánchez Aguirre, Azalea Reyes Aguilar, Michael Demmler y Magdalena Giordano
+
+* #### Construyendo el Sistema Regional de Input-Output para Chile
+Patricio Aroca, Esteban López y Sebastián Briones
+
+* #### Reglas de Asociación, una aplicación en retail del mercado outdoor.
+Gabriela Sandoval	
