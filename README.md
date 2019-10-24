@@ -58,9 +58,9 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 * #### [ROpenSci.](https://maelle.github.io/latinr19/#1) [Maëlle Salmon](https://twitter.com/ma_salmon)
 * #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	[Elio Campitelli](https://twitter.com/d_olivaw), Gabriela Mathieu, [Marcos Prunello](https://twitter.com/mrqtsp)
 * #### [R-Ladies.](https://docs.google.com/presentation/d/1ofKcww5FnVEFb-IfFFDqHY8wxY7xdmqQsXPbgpzZeqQ/edit?usp=drivesdk) 	[Yanina Bellini Saibene](https://twitter.com/yabellini), [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
-* #### The Carpentries. [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
+* #### [Carpentries.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/carpentries_latinr2019.pptx) [Florencia D'Andrea](https://twitter.com/cantoflor_87), [Laura Acion](https://twitter.com/_lacion_)
 * #### SatRDay. [Riva Quiroga](https://twitter.com/rivaquiroga).
-* #### LatinR. Ignacio
+* #### LatinR. Ignacio Alvarez Castro.
 
 ### Panel: Datos oficiales y encuestas
 
