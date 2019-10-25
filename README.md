@@ -56,16 +56,16 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 ### Mesa temática: Comunidades - Presentación: [Laura Acion](https://twitter.com/_lacion_)
 
 * #### [ROpenSci.](https://maelle.github.io/latinr19/#1) [Maëlle Salmon](https://twitter.com/ma_salmon)
-* #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	[Elio Campitelli](https://twitter.com/d_olivaw), Gabriela Mathieu, [Marcos Prunello](https://twitter.com/mrqtsp)
+* #### [RUGs.](https://drive.google.com/file/d/1qv5m3PbuYALCWNNhWg9aFAV2J5jdjq_l/view?usp=sharing)	[Elio Campitelli](https://twitter.com/d_olivaw), [Gabriela Mathieu](https://twitter.com/calcita3), [Marcos Prunello](https://twitter.com/mrqtsp)
 * #### [R-Ladies.](https://docs.google.com/presentation/d/1ofKcww5FnVEFb-IfFFDqHY8wxY7xdmqQsXPbgpzZeqQ/edit?usp=drivesdk) 	[Yanina Bellini Saibene](https://twitter.com/yabellini), [Laura Acion](https://twitter.com/_lacion_), [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 * #### [Carpentries.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/carpentries_latinr2019.pptx) [Florencia D'Andrea](https://twitter.com/cantoflor_87), [Laura Acion](https://twitter.com/_lacion_)
 * #### SatRDay. [Riva Quiroga](https://twitter.com/rivaquiroga).
 * #### LatinR. Ignacio Alvarez Castro.
 
-### Panel: Datos oficiales y encuestas
+### Panel: Datos oficiales y encuestas - moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
-* #### Ignacio Agloni, Klaus Lehmann and Verónica Canales
-* #### rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R	Gabriela Mathieu and Richard Detomasi
+* #### Geo Survey Des: Sistema para gestión de zonas a relevar en campo usando R. [Presentación.](https://drive.google.com/drive/folders/1YmVauFy0e9ZdP_nSTLv5fY0GjtJ3yU-x) [Richard Detomasi](https://twitter.com/RichardDetomasi) and [Gabriela Mathieu](https://twitter.com/calcita3)
+* #### rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R.[Presentación.](https://drive.google.com/drive/folders/12x9u3n5hHHQwW3HkEo_1ufcVaq3XsL2A)	[Gabriela Mathieu](https://twitter.com/calcita3) and [Richard Detomasi](https://twitter.com/RichardDetomasi)
 
 ### Panel: Género - moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
@@ -74,11 +74,11 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Manejo de datos
 
-* #### Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay.	Santiago Melendi, Marilina Santero, Carolina Prado, Rosana Poggio, Natalia Elorriaga, Laura Gutierrez, Pablo Gulayin and Vilma Irazola
-* #### Fuzzy merging with company names	Richard Vogg
-* #### De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados	Luis D. Verde Arregoitia.
-* #### inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos	Andrés Cruz
-* #### AHP implementada em R	Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
+* #### Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay. [Presentación.](https://msanter01.github.io/LatinR2019/LatinR-2019.html#1)	[Santiago Melendi](https://twitter.com/santimln), [Marilina Santero](https://twitter.com/SanteroMarilina), Carolina Prado, Rosana Poggio, Natalia Elorriaga, Laura Gutierrez, Pablo Gulayin and Vilma Irazola
+* #### Fuzzy merging with company names. [Presentación.](https://www.dropbox.com/s/69gralzsban66p0/Richard_Vogg_Fuzzy_merging.pdf?dl=0) 	[Richard Vogg](https://twitter.com/@richard_vogg)
+* #### De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados. [Presentación.](https://docs.google.com/presentation/d/1zoRa3GzmRl289paMLb_MWmU5PT5-14zR45hKw96ubsw/edit?usp=sharing)	[Luis D. Verde Arregoitia.](https://twitter.com/LuisDVerde)
+* #### inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos. [Presentación.](http://tiny.cc/latinr-inexact)	[Andrés Cruz](https://twitter.com/arcruz0)
+* #### AHP implementada em R. [Presentación.](https://lucianea.github.io/AHP_LatinR)	Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
 
 ### Panel: Desarrollo de paquetes y R en producción	
 
