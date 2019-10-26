@@ -107,7 +107,7 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Bases de datos
 
-* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R. [Presentación.]	Mauricio Vargas	
+* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R. [Presentación.](http://pacha.hk/latinr/tradestatistics/index.html#1)	Mauricio Vargas	
 * #### Datasketch Apps: Herramientas web para limpieza y visualización de datos. [Presentación.](https://docs.google.com/presentation/d/1Zdh0FH1LrVhV1yhP-dCkHIX6DApZ8UjmbzAxo29pK84/edit?usp=sharing)	Camila Achuri y David Daza	
 
 ### Panel: Aplicaciones
