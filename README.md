@@ -47,10 +47,10 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Mesa temática: Ciencia de Datos para las políticas públicas - Presentación: [Verónica Canales](https://twitter.com/veritoctoc)
 
-* #### Marco general de la situación de la ciencia de datos en relación al desarrollo de políticas públicas.	Germán Mondragón
-* #### Uso de APIs y modelos de series de tiempo para estimar dotación de personal. [Presentación.](http://pacha.hk/latinr/apis/index.html#1)	[Mauricio Vargas](https://twitter.com/pachamaltese)
-* #### Experiencias de trabajo con grandes volúmenes de datos en el procesamiento de Censo 2017.	Pablo León
-* #### Tres experiencias de éxito en el uso de la ciencia de datos para el sector público.[Presentación.](https://docs.google.com/presentation/d/1kopfNxwqtsHTrb2BfuTo-iLChBMB_Jq7qKTBxHCy5vA/edit?usp=sharing)	[Patricio Cofré](https://twitter.com/pcofre)
+* #### [Marco general de la situación de la ciencia de datos en relación al desarrollo de políticas públicas.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_46.pdf)	Germán Mondragón
+* #### [Uso de APIs y modelos de series de tiempo para estimar dotación de personal.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_46.pdf) [Presentación.](http://pacha.hk/latinr/apis/index.html#1)	[Mauricio Vargas](https://twitter.com/pachamaltese)
+* #### [Experiencias de trabajo con grandes volúmenes de datos en el procesamiento de Censo 2017.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_46.pdf)	Pablo León
+* #### [Tres experiencias de éxito en el uso de la ciencia de datos para el sector público.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_46.pdf) [Presentación.](https://docs.google.com/presentation/d/1kopfNxwqtsHTrb2BfuTo-iLChBMB_Jq7qKTBxHCy5vA/edit?usp=sharing)	[Patricio Cofré](https://twitter.com/pcofre)
 
 
 ### Mesa temática: Comunidades - Presentación: [Laura Acion](https://twitter.com/_lacion_)
