@@ -43,7 +43,7 @@ En este taller revisaremos la importancia de la visualización, aprenderemos de 
 
 _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El link en la palabra Presentación te dara acceso a las slides de la exposición oral.  El link en el nombre de los autores y moderadores te dará acceso a su cuenta de twitter._
 
-### Jueves 25
+### Jueves 26
 
 ### Mesa temática: Ciencia de Datos para las políticas públicas - Presentación: [Verónica Canales](https://twitter.com/veritoctoc)
 
@@ -95,7 +95,42 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 * #### Package "lobbyR"	Daniel Alcatruz and Sebastián Niklitschek
 * #### Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R	Daniela Vazquez
 
+### Viernes 27
 
+### Panel: Modelos predictivos - Moderadora: Yanina Bellini Saibene
+
+* #### Predicción de heladas usando aprendizaje automático e internet de las cosas	Ana Laura Diedrichs, Facundo Bromberg and Diego Dujovne	https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0
+* #### Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo	Sara Acevedo, Cristina Contreras, Carlos Ávila, Javier Rivera and Carlos Bonilla	https://saryace.shinyapps.io/LatinR/
+* #### Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones	Daniela Prina, Sabrina López, Stephan Arndt and Laura Acion	https://docs.google.com/presentation/d/1PX_eauNorhryDHlqmPmfCzUNsMzvJ1OlvkLpaQrb1a4/edit?usp=sharing
+* #### Predicción de precios de la vivienda. Aprendizaje estadístico con precios de oferta y transacción	Pablo Picardo	https://drive.google.com/file/d/1nlqZC36kTtUC79rWla06JY3oduny0zxP/view?usp=sharing
+* #### Predicción de la sequía agrícola en Chile: regresión lineal vs deep learning	Francisco Zambrano	
+
+### Panel: Bases de datos
+
+* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R	Mauricio Vargas	
+* #### Datasketch Apps: Herramientas web para limpieza y visualización de datos	Camila Achuri y David Daza	https://docs.google.com/presentation/d/1Zdh0FH1LrVhV1yhP-dCkHIX6DApZ8UjmbzAxo29pK84/edit?usp=sharing
+
+### Panel: Aplicaciones
+
+* #### rvad: perfiles verticales de viento a partir de datos de radares meteorológicos	Paola Corrales and Elio Campitelli	https://docs.google.com/presentation/d/1lPzPhGV001I6o-O8mkyZC65ZzF3irfqwOyYc1H8FT0Y/edit?usp=drivesdk
+* #### GCM compareR: una aplicación web para evaluar escenarios de cambio climático	Javier Fajardo, Derek Corcoran, Patrick Roehrdanz, Lee Hannah and Pablo A Marquet	http://bit.ly/Fajardo_latinR2019
+* #### InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares	Marcos Prunello	https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9
+
+### Panel: Datos espaciales - Moderadora: Priscilla Minotti
+
+* #### SHINY SMART CITY: A CIDADE INTELIGENTE EM TEMPO REAL	Steven Dutt Ross, Orlando Celso Longo, Luciane Ferreira Alcoforado and Lyncoln Sousa De Oliveira	https://dataunirio.github.io/latinr2019_SSC_presentation/#1
+* #### Mapeando la Vulnerabilidad Sanitaria en Argentina con R	Antonio Vazquez Brust, Tomás Olego and Germán Rosati	http://bit.ly/latinr2019
+* #### Extracción de datos de redes sociales para monitorear el servicio de transporte de la Ciudad de Buenos Aires	Nicolas Sidicaro	
+* #### Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.	Stephanie Orellana	
+* #### R en movimiento: una revisión de los paquetes para analizar movimiento dirigida a usuarios y desarrolladores	Rocío Joo, Matthew E Boone, Thomas A Clay, Samantha C Patrick, Susana Clusella-Trullas and Mathieu Basille	https://github.com/rociojoo/Presentations/blob/master/Talks/2019/LatinR2019.pdf
+
+### Panel: Aplicaciones y modelos 
+
+* #### Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R	Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud and Juan M. Juricich.	https://drive.google.com/file/d/1oXd_7J5kPTnDpRFTfi2c_vw9EI4lzCSA/view?usp=sharing
+* #### Análisis de patrones de respuesta en una evaluación estandarizada bajo el marco del análisis forense de datos	Yuriko Sosa Paredes and Andrés Burga León	
+* #### Comparación de estructuras de modelos loglineales	Jan Strappa Figueroa and Facundo Bromberg	https://drive.google.com/file/d/1utO5drn3CZS0wQYkeMoBQSW7Y4AWE7F7/view?usp=sharing
+* #### Evaluación y monitoreo de plataformas educativas	Federico Molina, Natalia da Silva, Ignacio Ignacio Alvarez-Castro y Juan José Goyeneche	https://drive.google.com/file/d/1ghmQw4mfk7BvLeCUM3EDpM0ioP8WMv54/view?usp=sharing
+* #### Eficiencia de los gobiernos locales en educación: Un enfoque desde el espacio para el caso chileno	Patricio Aroca, Javier Fernández and Esteban López	
 
 
 ## Posters
