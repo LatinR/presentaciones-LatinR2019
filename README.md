@@ -126,8 +126,7 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Aplicaciones y modelos 
 
-* #### Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R. [Presentación.](
-https://drive.google.com/file/d/1oXd_7J5kPTnDpRFTfi2c_vw9EI4lzCSA/view?usp=sharing) Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud and Juan M. Juricich.	
+* #### Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R. [Presentación.](https://drive.google.com/file/d/1oXd_7J5kPTnDpRFTfi2c_vw9EI4lzCSA/view?usp=sharing) Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud and Juan M. Juricich.	
 * #### Análisis de patrones de respuesta en una evaluación estandarizada bajo el marco del análisis forense de datos.	Yuriko Sosa Paredes and Andrés Burga León	
 * #### Comparación de estructuras de modelos loglineales. [Presentación.](https://drive.google.com/file/d/1utO5drn3CZS0wQYkeMoBQSW7Y4AWE7F7/view?usp=sharing)	Jan Strappa Figueroa and Facundo Bromberg	
 * #### Evaluación y monitoreo de plataformas educativas. [Presentación.](https://drive.google.com/file/d/1ghmQw4mfk7BvLeCUM3EDpM0ioP8WMv54/view?usp=sharing)	Federico Molina, Natalia da Silva, Ignacio Ignacio Alvarez-Castro y Juan José Goyeneche	
