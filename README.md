@@ -62,12 +62,12 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 * #### SatRDay. [Riva Quiroga](https://twitter.com/rivaquiroga).
 * #### LatinR. Ignacio Alvarez Castro.
 
-### Panel: Datos oficiales y encuestas - moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
+### Panel: Datos oficiales y encuestas - Moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
 * #### Geo Survey Des: Sistema para gestión de zonas a relevar en campo usando R. [Presentación.](https://drive.google.com/drive/folders/1YmVauFy0e9ZdP_nSTLv5fY0GjtJ3yU-x) [Richard Detomasi](https://twitter.com/RichardDetomasi) and [Gabriela Mathieu](https://twitter.com/calcita3)
 * #### [rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando  R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_71.pdf) [Presentación.](https://drive.google.com/drive/folders/12x9u3n5hHHQwW3HkEo_1ufcVaq3XsL2A)	[Gabriela Mathieu](https://twitter.com/calcita3) and [Richard Detomasi](https://twitter.com/RichardDetomasi)
 
-### Panel: Género - moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
+### Panel: Género - Moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
 * #### [Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_49.pdf) [Presentación.](https://docs.google.com/presentation/d/1Brx-Gil1iZqu_vLSmBjJFxXwkZcwSEoZniW6SZBSP9I/edit?usp=sharing)	[Yanina Bellini Saibene](https://twitter.com/yabellini) and Marina Cock
 * #### [¿Quienes investigan sobre género?.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_7.pdf) [Presentación.](https://www.dropbox.com/s/peq9poppxdwpn53/Presentaci%C3%B3n%20LATINR.pptx?dl=0)	[Juan Pablo Sokil](https://twitter.com/juanpablosokil) and Laura Osorio Gómez
