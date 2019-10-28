@@ -89,11 +89,11 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 * #### GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos.  [_Slides._](https://github.com/CGomezNarvaez/LatinR-2019)	 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
-* #### Reproducible Analysis in the UK Government	Matthew Upson, Matthew Gregory, Duncan Garmonsway and Matthew Dray
-* #### Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros.	Fernando Barbalho, Lucas Leite, Jordão Gonçalves and Tiago Pereira
-* #### Inteligencia Electoral: comportamiento y campañas	Juan Pablo Ruiz Nicolini and Juan Pablo Pilorget
-* #### Package "lobbyR"	Daniel Alcatruz and Sebastián Niklitschek
-* #### Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R	Daniela Vazquez
+* #### Reproducible Analysis in the UK Government. [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	Matthew Upson, Matthew Gregory, Duncan Garmonsway and Matthew Dray
+* #### Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros. [_Slides._](http://bit.ly/tesouro-brasil)	Fernando Barbalho, Lucas Leite, Jordão Gonçalves and Tiago Pereira
+* #### Inteligencia Electoral: comportamiento y campañas. [_Slides._](http://bit.ly/TuQmanoR)	Juan Pablo Ruiz Nicolini and Juan Pablo Pilorget
+* #### Package "lobbyR". [_Slides._](http://tiny.cc/Rlat_lobbyR)	Daniel Alcatruz and Sebastián Niklitschek
+* #### Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R. [_Slides._](dv.uy/latinr2019)	Daniela Vazquez
 
 ### Viernes 27
 
