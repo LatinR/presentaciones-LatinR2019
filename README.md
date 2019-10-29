@@ -82,10 +82,10 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Desarrollo de paquetes y R en producción	
 
-* #### Auto-Keras: An R easily accessible deep learning library	Juan Cruz Rodriguez and Javier Luraschi
+* #### Auto-Keras: An R easily accessible deep learning library.	Juan Cruz Rodriguez and Javier Luraschi
 * #### alicer: Creando un paquete con soluciones analíticas para Walmart Chile.  [_Slides._](https://1drv.ms/b/s!AszM2hDRx-RZn4xLDI8UD1UMXTS50A?e=RRmIZi)	 [Francisco Yira Albornoz](https://twitter.com/francisco_yira) Cambiaso and Francisco Benavides Lorca
 * #### Si te gusta la estadística, bancate los metámeros.  [_Slides._](https://docs.google.com/presentation/d/1bCWgydT40ZFKoD4VL7-yZBIDGM7PvWXOnIP1ocIh-HI/edit?usp=sharing)	 [Elio Campitelli](https://twitter.com/d_olivaw)
-* #### Uso de R en ambiente productivos	Tomás León
+* #### Uso de R en ambiente productivos.	Tomás León
 * #### GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos.  [_Slides._](https://github.com/CGomezNarvaez/LatinR-2019)	 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
@@ -107,7 +107,7 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Bases de datos
 
-* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R.  [_Slides._](http://pacha.hk/latinr/tradestatistics/index.html#1)	 Mauricio Vargas	
+* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R.  [_Slides._](http://pacha.hk/latinr/tradestatistics/index.html#1)	 	[Mauricio Vargas](https://twitter.com/pachamaltese)
 * #### Datasketch Apps: Herramientas web para limpieza y visualización de datos.  [_Slides._](https://docs.google.com/presentation/d/1Zdh0FH1LrVhV1yhP-dCkHIX6DApZ8UjmbzAxo29pK84/edit?usp=sharing)	 Camila Achuri y David Daza	
 
 ### Panel: Aplicaciones
