@@ -148,11 +148,11 @@ Camila Achuri y David Daza
 
 ### Panel: Aplicaciones
 
-* #### rvad: perfiles verticales de viento a partir de datos de radares meteorológicos.  [_Slides._](https://docs.google.com/presentation/d/1lPzPhGV001I6o-O8mkyZC65ZzF3irfqwOyYc1H8FT0Y/edit?usp=drivesdk)	 
-Paola Corrales and Elio Campitelli	
-* #### GCM compareR: una aplicación web para evaluar escenarios de cambio climático.  [_Slides._](http://bit.ly/Fajardo_latinR2019)	 
-Javier Fajardo, Derek Corcoran, Patrick Roehrdanz, Lee Hannah and Pablo A Marquet	
-* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf [_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 
+* #### [rvad: perfiles verticales de viento a partir de datos de radares meteorológicos.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_68.pdf)  [_Slides._](https://docs.google.com/presentation/d/1lPzPhGV001I6o-O8mkyZC65ZzF3irfqwOyYc1H8FT0Y/edit?usp=drivesdk)	 
+[Paola Corrales](https://twitter.com/paobcorrales) and [Elio Campitelli](https://twitter.com/d_olivaw)	
+* #### [GCM compareR: una aplicación web para evaluar escenarios de cambio climático.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_48.pdf)  [_Slides._](http://bit.ly/Fajardo_latinR2019)	 
+[Javier Fajardo](https://twitter.com/javierfajnolla), Derek Corcoran, Patrick Roehrdanz, Lee Hannah and Pablo A Marquet	
+* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf) [_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 
 [Marcos Prunello](https://twitter.com/mrqtsp)
 
 ### Panel: Datos espaciales - Moderadora: Priscilla Minotti
