@@ -208,10 +208,10 @@ David Morales, David Morales and Stephanie Orellana
 * #### [Desafíos de la enseñanza de R en contextos hispanoparlantes: una herramienta interactiva para el campo de las ciencias sociales](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_42.pdf)
 Giorgio Boccardo and Felipe Ruiz
 
-* #### [Use of R to work with public data in data journalism](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_2.pdf)
+* #### [Use of R to work with public data in data journalism.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_2.pdf)
 Gabriel Zanlorenssi
 
-* #### [Sistema de soporte de decisiones en Shiny para el balanceo de bicicletas en una red de bicicletas compartidas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_53.pdf)
+* #### [Sistema de soporte de decisiones en Shiny para el balanceo de bicicletas en una red de bicicletas compartidas.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_53.pdf)
 Juan Francisco Venegas Gutiérrez and Rodrigo Barraza Alonso
 
 * #### [Evangelización en el uso y manejo de información espacial para servicios educativos en ámbitos de contextos bilingües, en lengua originaria e interculturalidad en el Perú, utilizando R y QGIS.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_36.pdf)
@@ -220,5 +220,11 @@ Luis Eduardo Ferrer Cruz
 * #### [¿El auge de un "precariado" ?: Patrón de inversión en capital humano avanzado en Chile.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_81.pdf)
 Pablo A Cortés, Carla N Rivera and Manuel Muñoz
 
-* #### [Procesamiento eficiente de series de tiempo de raster espacio temporales en R](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_80.pdf)
+* #### [Procesamiento eficiente de series de tiempo de raster espacio temporales en R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_80.pdf)
 Matías Alejando Castillo Moine and Mónica Balzarini
+
+* #### [El imaginario social asociado con la Feria Nacional de San Marcos en Aguascalientes.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_74.pdf)
+Driselda Patricia Sánchez Aguirre and Luis Domingo Martínez Vázquez
+
+* #### [Desarrollo e implementación de un Observatorio de Susceptibilidad Antimicrobiana en un hospital de alta complejidad en Chile.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_23.pdf)
+Ignacio Castro, Gonzalo Nuñez and María Simian
