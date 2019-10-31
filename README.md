@@ -99,7 +99,7 @@ Ignacio Alvarez Castro.
 * #### [AHP implementada em R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_13.pdf)  [_Slides._](https://lucianea.github.io/AHP_LatinR)	 
 Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
 
-### Panel: Desarrollo de paquetes y R en producción	
+### Panel: Desarrollo de paquetes y R en producción	- Moderador: [Joshua Kunst](https://twitter.com/jbkunst)
 
 * #### [Auto-Keras: An R easily accessible deep learning library.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_12.pdf)	
 Juan Cruz Rodriguez and Javier Luraschi
