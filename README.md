@@ -74,7 +74,7 @@ Ignacio Alvarez Castro.
 
 ### Panel: Datos oficiales y encuestas - Moderadora: [Florencia D'Andrea](https://twitter.com/cantoflor_87)
 
-* #### Geo Survey Des: Sistema para gestión de zonas a relevar en campo usando R.  [_Slides._](https://drive.google.com/drive/folders/1YmVauFy0e9ZdP_nSTLv5fY0GjtJ3yU-x)  
+* #### [Geo Survey Des: Sistema para gestión de zonas a relevar en campo usando R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_70.pdf)  [_Slides._](https://drive.google.com/drive/folders/1YmVauFy0e9ZdP_nSTLv5fY0GjtJ3yU-x)  
 [Richard Detomasi](https://twitter.com/RichardDetomasi) and [Gabriela Mathieu](https://twitter.com/calcita3)
 * #### [rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando  R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_71.pdf)  [_Slides._](https://drive.google.com/drive/folders/12x9u3n5hHHQwW3HkEo_1ufcVaq3XsL2A)	
 [Gabriela Mathieu](https://twitter.com/calcita3) and [Richard Detomasi](https://twitter.com/RichardDetomasi)
@@ -113,8 +113,8 @@ Tomás León
 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
-* #### Reproducible Analysis in the UK Government. [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	
-Matthew Upson, Matthew Gregory, Duncan Garmonsway and Matthew Dray
+* #### [Reproducible Analysis in the UK Government.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_8.pdf) [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	
+[Matthew Upson](https://twitter.com/m_a_upson), [Matthew Gregory](https://twitter.com/mammykins_), [Duncan Garmonsway](https://twitter.com/nacnudus) and [Matthew Dray](https://twitter.com/mattdray)
 * #### Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros. [_Slides._](http://bit.ly/tesouro-brasil)	
 Fernando Barbalho, Lucas Leite, Jordão Gonçalves and Tiago Pereira
 * #### Inteligencia Electoral: comportamiento y campañas. [_Slides._](http://bit.ly/TuQmanoR)	
