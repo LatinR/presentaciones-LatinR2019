@@ -129,14 +129,14 @@ Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 ### Panel: Modelos predictivos - Moderadora: [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 * #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	  [_Slides._](https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0)	 
-Ana Laura Diedrichs, Facundo Bromberg and Diego Dujovne	
-* #### Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo.  [_Slides._](https://saryace.shinyapps.io/LatinR/)	 
-Sara Acevedo, Cristina Contreras, Carlos Ávila, Javier Rivera and Carlos Bonilla	
-* #### Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones.  [_Slides._](https://docs.google.com/presentation/d/1PX_eauNorhryDHlqmPmfCzUNsMzvJ1OlvkLpaQrb1a4/edit?usp=sharing)	 
-Daniela Prina, Sabrina López, Stephan Arndt and Laura Acion	
-* #### Predicción de precios de la vivienda. Aprendizaje estadístico con precios de oferta y transacción.  [_Slides._](https://drive.google.com/file/d/1nlqZC36kTtUC79rWla06JY3oduny0zxP/view?usp=sharing)	 
-Pablo Picardo	
-* #### Predicción de la sequía agrícola en Chile: regresión lineal vs deep learning.	
+[Ana Laura Diedrichs](https://twitter.com/anadiedrichs), Facundo Bromberg and Diego Dujovne	
+* #### [Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_63.pdf)  [_Slides._](https://saryace.shinyapps.io/LatinR/)	 
+[Sara Acevedo](https://twitter.com/saryace), [Cristina Contreras](https://twitter.com/criistii0), [Carlos Ávila](https://twitter.com/cavilag), Javier Rivera and Carlos Bonilla	
+* #### [Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_19.pdf)  [_Slides._](https://docs.google.com/presentation/d/1PX_eauNorhryDHlqmPmfCzUNsMzvJ1OlvkLpaQrb1a4/edit?usp=sharing)	 
+[Daniela Prina](https://twitter.com/_DaniPrina_), Sabrina López, Stephan Arndt and [Laura Acion](https://twitter.com/_lacion_)
+* #### [Predicción de precios de la vivienda. Aprendizaje estadístico con precios de oferta y transacción.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_16.pdf)  [_Slides._](https://drive.google.com/file/d/1nlqZC36kTtUC79rWla06JY3oduny0zxP/view?usp=sharing)	 
+[Pablo Picardo](https://twitter.com/PPicardo)
+* #### [Predicción de la sequía agrícola en Chile: regresión lineal vs deep learning.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_62.pdf)	
 Francisco Zambrano	
 
 ### Panel: Bases de datos
