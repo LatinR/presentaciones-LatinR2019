@@ -157,16 +157,16 @@ Camila Achuri y David Daza
 
 ### Panel: Datos espaciales - Moderadora: Priscilla Minotti
 
-* #### Shiny Smart City: a cidade inteligente em tempo real.  [_Slides._](https://dataunirio.github.io/latinr2019_SSC_presentation/#1)	 
+* #### [Shiny Smart City: a cidade inteligente em tempo real.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_38.pdf)  [_Slides._](https://dataunirio.github.io/latinr2019_SSC_presentation/#1)	 
 Steven Dutt Ross, Orlando Celso Longo, Luciane Ferreira Alcoforado and Lyncoln Sousa De Oliveira	
-* #### Mapeando la Vulnerabilidad Sanitaria en Argentina con R.  [_Slides._](http://bit.ly/latinr2019)	 
-Antonio Vazquez Brust, Tomás Olego and Germán Rosati	
-* #### Extracción de datos de redes sociales para monitorear el servicio de transporte de la Ciudad de Buenos Aires.	
+* #### [Mapeando la Vulnerabilidad Sanitaria en Argentina con R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_41.pdf)  [_Slides._](http://bit.ly/latinr2019)	 
+[Antonio Vazquez Brust](https://twitter.com/vazquezbrust), Tomás Olego and Germán Rosati	
+* #### [Extracción de datos de redes sociales para monitorear el servicio de transporte de la Ciudad de Buenos Aires.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_50.pdf)	
 Nicolas Sidicaro	
-* #### Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.	
+* #### [Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_69.pdf)	
 Stephanie Orellana	
-* #### R en movimiento: una revisión de los paquetes para analizar movimiento dirigida a usuarios y desarrolladores.  [_Slides._](https://github.com/rociojoo/Presentations/blob/master/Talks/2019/LatinR2019.pdf)	 
-Rocío Joo, Matthew E Boone, Thomas A Clay, Samantha C Patrick, Susana Clusella-Trullas and Mathieu Basille	
+* #### [R en movimiento: una revisión de los paquetes para analizar movimiento dirigida a usuarios y desarrolladores.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_6.pdf)  [_Slides._](https://github.com/rociojoo/Presentations/blob/master/Talks/2019/LatinR2019.pdf)	 
+[Rocío Joo](https://twitter.com/rocio_joo), Matthew E Boone, Thomas A Clay, Samantha C Patrick, Susana Clusella-Trullas and Mathieu Basille	
 
 ### Panel: Aplicaciones y modelos 
 
