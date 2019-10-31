@@ -128,7 +128,7 @@ Daniela Vazquez
 
 ### Panel: Modelos predictivos - Moderadora: [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
-* #### Predicción de heladas usando aprendizaje automático e internet de las cosas.  [_Slides._](https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0)	 
+* #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	  [_Slides._](https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0)	 
 Ana Laura Diedrichs, Facundo Bromberg and Diego Dujovne	
 * #### Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo.  [_Slides._](https://saryace.shinyapps.io/LatinR/)	 
 Sara Acevedo, Cristina Contreras, Carlos Ávila, Javier Rivera and Carlos Bonilla	
@@ -195,9 +195,6 @@ Carlos Catania y Jorge Guerra
 
 * #### [Log-linear models structure comparison](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_34.pdf)
 Jan Strappa Figueroa y Facundo Bromberg
-
-* #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	
-Ana Laura Diedrichs, Facundo Bromberg y Diego Dujovne	
 
 * #### [Herramientas de Análisis en Educación Superior](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
 Claudia Cifuentes Donald	
