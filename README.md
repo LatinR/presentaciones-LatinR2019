@@ -151,9 +151,6 @@ Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Peller
 * #### [Log-linear models structure comparison](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_34.pdf)
 Jan Strappa Figueroa y Facundo Bromberg
 
-* #### [Juego Interactivo: Take Away](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_35.pdf)
-Sury Chavarria Gutierrez, Lindey Carvajal Acuña y Josue Pablo Baltodano Leiva	
-
 * #### [Predicción de heladas usando aprendizaje automático e internet de las cosas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_43.pdf)	
 Ana Laura Diedrichs, Facundo Bromberg y Diego Dujovne	
 
