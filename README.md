@@ -141,7 +141,7 @@ Francisco Zambrano
 
 ### Panel: Bases de datos
 
-* #### Open Trade Statistics: Database, API, Dashboard and Utility Program made with R.  [_Slides._](http://pacha.hk/latinr/tradestatistics/index.html#1)	 	
+* #### [Open Trade Statistics: Database, API, Dashboard and Utility Program made with R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_11.pdf)  [_Slides._](http://pacha.hk/latinr/tradestatistics/index.html#1)	 	
 [Mauricio Vargas](https://twitter.com/pachamaltese)
 * #### Datasketch Apps: Herramientas web para limpieza y visualización de datos.  [_Slides._](https://docs.google.com/presentation/d/1Zdh0FH1LrVhV1yhP-dCkHIX6DApZ8UjmbzAxo29pK84/edit?usp=sharing)	 
 Camila Achuri y David Daza	
