@@ -74,11 +74,11 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Manejo de datos
 
-* #### Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay.  [_Slides._](https://msanter01.github.io/LatinR2019/LatinR-2019.html#1) 	[Santiago Melendi](https://twitter.com/santimln), [Marilina Santero](https://twitter.com/SanteroMarilina), Carolina Prado, Rosana Poggio, Natalia Elorriaga, Laura Gutierrez, Pablo Gulayin and Vilma Irazola
-* #### Fuzzy merging with company names.  [_Slides._](https://www.dropbox.com/s/69gralzsban66p0/Richard_Vogg_Fuzzy_merging.pdf?dl=0) 	[Richard Vogg](https://twitter.com/@richard_vogg)
-* #### De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados.  [_Slides._](https://docs.google.com/presentation/d/1zoRa3GzmRl289paMLb_MWmU5PT5-14zR45hKw96ubsw/edit?usp=sharing) 	[Luis D. Verde Arregoitia.](https://twitter.com/LuisDVerde)
-* #### inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos.  [_Slides._](http://tiny.cc/latinr-inexact) 	[Andrés Cruz](https://twitter.com/arcruz0)
-* #### AHP implementada em R.  [_Slides._](https://lucianea.github.io/AHP_LatinR)	 Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
+* #### [Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_30.pdf).  [_Slides._](https://msanter01.github.io/LatinR2019/LatinR-2019.html#1) 	[Santiago Melendi](https://twitter.com/santimln), [Marilina Santero](https://twitter.com/SanteroMarilina), Carolina Prado, Rosana Poggio, Natalia Elorriaga, Laura Gutierrez, Pablo Gulayin and Vilma Irazola
+* #### [Fuzzy merging with company names.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_57.pdf)  [_Slides._](https://www.dropbox.com/s/69gralzsban66p0/Richard_Vogg_Fuzzy_merging.pdf?dl=0) 	[Richard Vogg](https://twitter.com/@richard_vogg)
+* #### [De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_54.pdf)  [_Slides._](https://docs.google.com/presentation/d/1zoRa3GzmRl289paMLb_MWmU5PT5-14zR45hKw96ubsw/edit?usp=sharing) 	[Luis D. Verde Arregoitia.](https://twitter.com/LuisDVerde)
+* #### [inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_78.pdf)  [_Slides._](http://tiny.cc/latinr-inexact) 	[Andrés Cruz](https://twitter.com/arcruz0)
+* #### [AHP implementada em R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_13.pdf)  [_Slides._](https://lucianea.github.io/AHP_LatinR)	 Luciane Ferreira Alcoforado, Orlando Celso Longo, Lyncoln Sousa de Oliveira, Steven Dutt Ross and Alessandra Dos Santos Simão
 
 ### Panel: Desarrollo de paquetes y R en producción	
 
@@ -97,7 +97,7 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Viernes 27
 
-### Panel: Modelos predictivos - Moderadora: Yanina Bellini Saibene
+### Panel: Modelos predictivos - Moderadora: [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 * #### Predicción de heladas usando aprendizaje automático e internet de las cosas.  [_Slides._](https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0)	 Ana Laura Diedrichs, Facundo Bromberg and Diego Dujovne	
 * #### Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo.  [_Slides._](https://saryace.shinyapps.io/LatinR/)	 Sara Acevedo, Cristina Contreras, Carlos Ávila, Javier Rivera and Carlos Bonilla	
