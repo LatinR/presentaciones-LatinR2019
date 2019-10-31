@@ -82,11 +82,11 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 ### Panel: Desarrollo de paquetes y R en producción	
 
-* #### Auto-Keras: An R easily accessible deep learning library.	Juan Cruz Rodriguez and Javier Luraschi
-* #### alicer: Creando un paquete con soluciones analíticas para Walmart Chile.  [_Slides._](https://1drv.ms/b/s!AszM2hDRx-RZn4xLDI8UD1UMXTS50A?e=RRmIZi)	 [Francisco Yira Albornoz](https://twitter.com/francisco_yira) Cambiaso and Francisco Benavides Lorca
-* #### Si te gusta la estadística, bancate los metámeros.  [_Slides._](https://docs.google.com/presentation/d/1bCWgydT40ZFKoD4VL7-yZBIDGM7PvWXOnIP1ocIh-HI/edit?usp=sharing)	 [Elio Campitelli](https://twitter.com/d_olivaw)
-* #### Uso de R en ambiente productivos.	Tomás León
-* #### GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos.  [_Slides._](https://github.com/CGomezNarvaez/LatinR-2019)	 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
+* #### [Auto-Keras: An R easily accessible deep learning library.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_12.pdf)	Juan Cruz Rodriguez and Javier Luraschi
+* #### [alicer: Creando un paquete con soluciones analíticas para Walmart Chile.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_75.pdf)  [_Slides._](https://1drv.ms/b/s!AszM2hDRx-RZn4xLDI8UD1UMXTS50A?e=RRmIZi)	 [Francisco Yira Albornoz](https://twitter.com/francisco_yira) Cambiaso and Francisco Benavides Lorca
+* #### [Si te gusta la estadística, bancate los metámeros.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_45.pdf)  [_Slides._](https://docs.google.com/presentation/d/1bCWgydT40ZFKoD4VL7-yZBIDGM7PvWXOnIP1ocIh-HI/edit?usp=sharing)	 [Elio Campitelli](https://twitter.com/d_olivaw)
+* #### [Uso de R en ambiente productivos.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_1.pdf)	Tomás León
+* #### [GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_31.pdf)  [_Slides._](https://github.com/CGomezNarvaez/LatinR-2019)	 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
 * #### Reproducible Analysis in the UK Government. [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	Matthew Upson, Matthew Gregory, Duncan Garmonsway and Matthew Dray
