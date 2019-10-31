@@ -101,7 +101,7 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 * #### Predicción de heladas usando aprendizaje automático e internet de las cosas.  [_Slides._](https://www.dropbox.com/s/ndux0j7pl5mdqez/Diedrichs-latinR-2019.pdf?dl=0)	 Ana Laura Diedrichs, Facundo Bromberg and Diego Dujovne	
 * #### Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo.  [_Slides._](https://saryace.shinyapps.io/LatinR/)	 Sara Acevedo, Cristina Contreras, Carlos Ávila, Javier Rivera and Carlos Bonilla	
-* #### Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones.  [_Slides._](https://docs.google.com/presentation)	 Daniela Prina, Sabrina López, Stephan Arndt and Laura Acion	/d/1PX_eauNorhryDHlqmPmfCzUNsMzvJ1OlvkLpaQrb1a4/edit?usp=sharing
+* #### Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones.  [_Slides._](https://docs.google.com/presentation/d/1PX_eauNorhryDHlqmPmfCzUNsMzvJ1OlvkLpaQrb1a4/edit?usp=sharing)	 Daniela Prina, Sabrina López, Stephan Arndt and Laura Acion	
 * #### Predicción de precios de la vivienda. Aprendizaje estadístico con precios de oferta y transacción.  [_Slides._](https://drive.google.com/file/d/1nlqZC36kTtUC79rWla06JY3oduny0zxP/view?usp=sharing)	 Pablo Picardo	
 * #### Predicción de la sequía agrícola en Chile: regresión lineal vs deep learning.	Francisco Zambrano	
 
@@ -114,7 +114,8 @@ _El link en el nombre del trabajo te dará acceso al resumen del trabajo. El lin
 
 * #### rvad: perfiles verticales de viento a partir de datos de radares meteorológicos.  [_Slides._](https://docs.google.com/presentation/d/1lPzPhGV001I6o-O8mkyZC65ZzF3irfqwOyYc1H8FT0Y/edit?usp=drivesdk)	 Paola Corrales and Elio Campitelli	
 * #### GCM compareR: una aplicación web para evaluar escenarios de cambio climático.  [_Slides._](http://bit.ly/Fajardo_latinR2019)	 Javier Fajardo, Derek Corcoran, Patrick Roehrdanz, Lee Hannah and Pablo A Marquet	
-* #### InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares.  [_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 Marcos Prunello	
+* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf)
+[_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 [Marcos Prunello](https://twitter.com/mrqtsp)
 
 ### Panel: Datos espaciales - Moderadora: Priscilla Minotti
 
@@ -140,9 +141,6 @@ Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge A
 
 * #### [Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_10.pdf)
 Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira
-
-* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf)
-Marcos Prunello	
 
 * #### [Visualizing Discriminative Power of Symbol-based Network Traffic Models](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_27.pdf)	
 Carlos Catania y Jorge Guerra	
