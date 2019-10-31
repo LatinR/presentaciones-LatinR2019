@@ -115,14 +115,14 @@ Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
 * #### [Reproducible Analysis in the UK Government.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_8.pdf) [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	
 [Matthew Upson](https://twitter.com/m_a_upson), [Matthew Gregory](https://twitter.com/mammykins_), [Duncan Garmonsway](https://twitter.com/nacnudus) and [Matthew Dray](https://twitter.com/mattdray)
-* #### Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros. [_Slides._](http://bit.ly/tesouro-brasil)	
-Fernando Barbalho, Lucas Leite, Jordão Gonçalves and Tiago Pereira
-* #### Inteligencia Electoral: comportamiento y campañas. [_Slides._](http://bit.ly/TuQmanoR)	
-Juan Pablo Ruiz Nicolini and Juan Pablo Pilorget
-* #### Package "lobbyR". [_Slides._](http://tiny.cc/Rlat_lobbyR)	
-Daniel Alcatruz and Sebastián Niklitschek
-* #### Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R. [_Slides._](dv.uy/latinr2019)	
-Daniela Vazquez
+* #### [Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_37.pdf) [_Slides._](http://bit.ly/tesouro-brasil)	
+[Fernando Barbalho](https://twitter.com/barbalhofernand), Lucas Leite, Jordão Gonçalves and [Tiago Pereira](https://twitter.com/tiagombp)
+* #### [Inteligencia Electoral: comportamiento y campañas.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_15.pdf) [_Slides._](http://bit.ly/TuQmanoR)	
+[Juan Pablo Ruiz Nicolini](https://twitter.com/TuQmano) and Juan Pablo Pilorget
+* #### [Package "lobbyR".](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_79.pdf) [_Slides._](http://tiny.cc/Rlat_lobbyR)	
+[Daniel Alcatruz](https://twitter.com/AlcatruzDaniel) and Sebastián Niklitschek
+* #### [Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_83.pdf) [_Slides._](dv.uy/latinr2019)	
+[Daniela Vazquez](https://twitter.com/d4tagirl)
 
 ### Viernes 27
 
