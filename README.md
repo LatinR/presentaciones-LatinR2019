@@ -152,8 +152,7 @@ Camila Achuri y David Daza
 Paola Corrales and Elio Campitelli	
 * #### GCM compareR: una aplicación web para evaluar escenarios de cambio climático.  [_Slides._](http://bit.ly/Fajardo_latinR2019)	 
 Javier Fajardo, Derek Corcoran, Patrick Roehrdanz, Lee Hannah and Pablo A Marquet	
-* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf)
-[_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 
+* #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf [_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 
 [Marcos Prunello](https://twitter.com/mrqtsp)
 
 ### Panel: Datos espaciales - Moderadora: Priscilla Minotti
