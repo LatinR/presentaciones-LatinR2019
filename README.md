@@ -113,6 +113,7 @@ Tomás León
 Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 
 ### Panel: Datos abiertos, datos de gobierno, elecciones	
+
 * #### [Reproducible Analysis in the UK Government.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_8.pdf) [_Slides._](https://docs.google.com/presentation/d/1Gli-4Cx06wwGNrZqlN-eEmQFvT8uzZkO7JBS926Tsrw/edit?usp=sharing) 	
 [Matthew Upson](https://twitter.com/m_a_upson), [Matthew Gregory](https://twitter.com/mammykins_), [Duncan Garmonsway](https://twitter.com/nacnudus) and [Matthew Dray](https://twitter.com/mattdray)
 * #### [Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_37.pdf) [_Slides._](http://bit.ly/tesouro-brasil)	
@@ -155,7 +156,7 @@ Camila Achuri y David Daza
 * #### [InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_24.pdf) [_Slides._](https://drive.google.com/open?id=170c0oWpqXEsGwgOJkJ6X6OUrPZfAIiY9)	 
 [Marcos Prunello](https://twitter.com/mrqtsp)
 
-### Panel: Datos espaciales - Moderadora: Priscilla Minotti
+### Panel: Datos espaciales - Moderadora: [Priscilla Minotti](https://twitter.com/pmnatural)
 
 * #### [Shiny Smart City: a cidade inteligente em tempo real.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_38.pdf)  [_Slides._](https://dataunirio.github.io/latinr2019_SSC_presentation/#1)	 
 Steven Dutt Ross, Orlando Celso Longo, Luciane Ferreira Alcoforado and Lyncoln Sousa De Oliveira	
@@ -172,13 +173,13 @@ Stephanie Orellana
 
 * #### [Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_28.pdf)  [_Slides._](https://drive.google.com/file/d/1oXd_7J5kPTnDpRFTfi2c_vw9EI4lzCSA/view?usp=sharing)  
 Brenda V. Canizo, Ana Laura Diedrichs, Emiliano F. Fiorentini, Roberto G. Pellerano, Rodolfo G. Wuilloud and Juan M. Juricich.	
-* #### Análisis de patrones de respuesta en una evaluación estandarizada bajo el marco del análisis forense de datos.	
-Yuriko Sosa Paredes and Andrés Burga León	
-* #### Comparación de estructuras de modelos loglineales.  [_Slides._](https://drive.google.com/file/d/1utO5drn3CZS0wQYkeMoBQSW7Y4AWE7F7/view?usp=sharing)	 
+* #### [Análisis de patrones de respuesta en una evaluación estandarizada bajo el marco del análisis forense de datos.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_64.pdf)	
+[Yuriko Sosa Paredes](https://twitter.com/YkSosaP) and Andrés Burga León	
+* #### [Comparación de estructuras de modelos loglineales.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_34.pdf)  [_Slides._](https://drive.google.com/file/d/1utO5drn3CZS0wQYkeMoBQSW7Y4AWE7F7/view?usp=sharing)	 
 Jan Strappa Figueroa and Facundo Bromberg	
-* #### Evaluación y monitoreo de plataformas educativas.  [_Slides._](https://drive.google.com/file/d/1ghmQw4mfk7BvLeCUM3EDpM0ioP8WMv54/view?usp=sharing)	 
-Federico Molina, Natalia da Silva, Ignacio Ignacio Alvarez-Castro y Juan José Goyeneche	
-* #### Eficiencia de los gobiernos locales en educación: Un enfoque desde el espacio para el caso chileno.	
+* #### [Evaluación y monitoreo de plataformas educativas.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_58.pdf)  [_Slides._](https://drive.google.com/file/d/1ghmQw4mfk7BvLeCUM3EDpM0ioP8WMv54/view?usp=sharing)	 
+[Federico Molina](https://twitter.com/FedeMolinaMagne), Natalia da Silva, Ignacio Ignacio Alvarez-Castro y Juan José Goyeneche	
+* #### [Eficiencia de los gobiernos locales en educación: Un enfoque desde el espacio para el caso chileno.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_65.pdf)
 Patricio Aroca, Javier Fernández and Esteban López	
 
 
@@ -193,9 +194,6 @@ Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge A
 * #### [Visualizing Discriminative Power of Symbol-based Network Traffic Models](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_27.pdf)	
 Carlos Catania y Jorge Guerra	
 
-* #### [Log-linear models structure comparison](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_34.pdf)
-Jan Strappa Figueroa y Facundo Bromberg
-
 * #### [Herramientas de Análisis en Educación Superior](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
 Claudia Cifuentes Donald	
 
@@ -204,15 +202,6 @@ Jesús Eduardo Gamboa Unsihuay
 
 * #### [Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas?](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_56.pdf)
 Patricia Caro, Teresa Braicovich y Casullo Fernando Miguel	
-
-* #### [Análisis de valores extremos: una aplicación a temperaturas mínimas en Uruguay](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_66.pdf)
-Mathias Cardarello y Lorena Luraghi	
-
-* #### [La impulsividad cognitiva como modulador del castigo altruista](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_72.pdf)
-Luis Domingo Martínez Vázquez, Driselda Patricia Sánchez Aguirre, Azalea Reyes Aguilar, Michael Demmler y Magdalena Giordano
-
-* #### [Construyendo el Sistema Regional de Input-Output para Chile](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_76.pdf)
-Patricio Aroca, Esteban López y Sebastián Briones
 
 * #### [Reglas de Asociación, una aplicación en retail del mercado outdoor](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_84.pdf)
 Gabriela Sandoval	
