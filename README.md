@@ -185,23 +185,3 @@ Patricio Aroca, Javier Fernández and Esteban López
 
 ## Posters
 
-* #### [Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_9.pdf)
-Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira	
-
-* #### [Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_10.pdf)
-Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque y Jorge Alberto Neira
-
-* #### [Visualizing Discriminative Power of Symbol-based Network Traffic Models](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_27.pdf)	
-Carlos Catania y Jorge Guerra	
-
-* #### [Herramientas de Análisis en Educación Superior](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_44.pdf)
-Claudia Cifuentes Donald	
-
-* #### [Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina	information on submission](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_55.pdf)
-Jesús Eduardo Gamboa Unsihuay	
-
-* #### [Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas?](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_56.pdf)
-Patricia Caro, Teresa Braicovich y Casullo Fernando Miguel	
-
-* #### [Reglas de Asociación, una aplicación en retail del mercado outdoor](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_84.pdf)
-Gabriela Sandoval	
