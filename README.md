@@ -122,7 +122,7 @@ Camilo Gómez-Narváez, Moreno Bevilacqua and Víctor Morales-Oñate
 [Juan Pablo Ruiz Nicolini](https://twitter.com/TuQmano) and Juan Pablo Pilorget
 * #### [Package "lobbyR".](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_79.pdf) [_Slides._](http://tiny.cc/Rlat_lobbyR)	
 [Daniel Alcatruz](https://twitter.com/AlcatruzDaniel) and Sebastián Niklitschek
-* #### [Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_83.pdf) [_Slides._](dv.uy/latinr2019)	
+* #### [Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_83.pdf) [_Slides._](https://docs.google.com/presentation/d/13-iRrqbrTL6IAr8x0dOVKqkb6PvLtrV87WS4MEKtOb4)	
 [Daniela Vazquez](https://twitter.com/d4tagirl)
 
 ### Viernes 27
