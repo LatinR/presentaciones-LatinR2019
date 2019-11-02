@@ -229,4 +229,5 @@ Driselda Patricia Sánchez Aguirre and Luis Domingo Martínez Vázquez
 * #### [Desarrollo e implementación de un Observatorio de Susceptibilidad Antimicrobiana en un hospital de alta complejidad en Chile.](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/LatinR2019_paper_23.pdf)
 Ignacio Castro, Gonzalo Nuñez and María Simian
 
-* #### [RUGs: Cómo crear un grupo de usuaries en tu ciudad. ](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/RUGs.png) [Marcos Prunello](https://twitter.com/mrqtsp)
+* #### [RUGs: Cómo crear un grupo de usuaries en tu ciudad. ](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/RUGs.png) 
+[Marcos Prunello](https://twitter.com/mrqtsp)
