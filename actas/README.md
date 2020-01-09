@@ -1,6 +1,6 @@
 ## Libro de Actas LatinR 2019
 
-Este libro de actas presenta los 53 trabajos contribuidos, aceptados y presentados en la segunda edición. Los mismos están ordenados temáticamente de acuerdo a su presentación durante la conferencia y al formato seleccionado
+Este [libro de actas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/actas/Libro%20Actas%20LatinR%20FINAL.pdf) presenta los 53 trabajos contribuidos, aceptados y presentados en la segunda edición. Los mismos están ordenados temáticamente de acuerdo a su presentación durante la conferencia y al formato seleccionado
 (presentación oral o poster).
 Las contribuciones presentan estudios académicos y experiencias en la industria sobre temáticas de: Ciencia de Datos para las políticas públicas,
 comunidades, datos oficiales, datos abiertos, datos espaciales, datos de gobierno, elecciones y encuestas, género, manejo de datos, desarrollo
