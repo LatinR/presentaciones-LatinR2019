@@ -231,3 +231,7 @@ Ignacio Castro, Gonzalo Nuñez and María Simian
 
 * #### [RUGs: Cómo crear un grupo de usuaries en tu ciudad. ](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/posters2019/RUGs.png) 
 [Marcos Prunello](https://twitter.com/mrqtsp)
+
+## Libro de Actas LatinR 2019
+
+El [libro de actas](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/actas/Libro%20Actas%20LatinR%20FINAL.pdf) presenta todos los trabajos contribuidos, aceptados y presentados durante la conferencia.  Editoras: Yanina Bellini Saibene, Florencia D'Andrea.
