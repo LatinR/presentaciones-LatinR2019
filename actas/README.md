@@ -11,3 +11,6 @@ Nuevamente en esta edición la participación y el entusiasmo de la comunidad de
 *Editoras:* Yanina Bellini Saibene, Florencia D'Andrea
 *Chairs:* Riva Quiroga, Laura Acion, Natalia da Silva
 
+
+Bellini Saibene, Y. N., & D'Andrea, M. F. (2019). Actas de LatinR 2019. Segunda Conferencia Latinoamericana sobre el uso de R en Investigación + Desarrollo. Zenodo. https://doi.org/10.5281/zenodo.20478583
+
